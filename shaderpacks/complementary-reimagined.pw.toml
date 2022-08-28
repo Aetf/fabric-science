@@ -1,0 +1,7 @@
+name = "Complementary Reimagined"
+filename = "main.zip"
+
+[download]
+url = "https://github.com/ComplementaryDevelopment/ComplementaryReimagined/archive/refs/heads/main.zip"
+hash-format = "sha1"
+hash = "ddbedb32d7ea698b79e37e88d79f5aacf21e45d5"

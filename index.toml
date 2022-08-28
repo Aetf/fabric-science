@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE"
+hash = "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ce9097e1d454e9a780d416ae117b3ffe5c7757bb6754954fa92dea5c72104b9e"
 metafile = true
@@ -23,6 +27,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
+metafile = true
+
+[[files]]
+file = "mods/complementary-reimagined.pw.toml"
+hash = "85e74ff8cdf4f346693680936590c68e96c992be3cbdd35739628727537fe67b"
 metafile = true
 
 [[files]]
@@ -126,6 +135,6 @@ hash = "a8b4ba352b7cc8fd21070bbe4fb6d45672e35d26a1bad6bb79d1dbf650926cf4"
 metafile = true
 
 [[files]]
-file = "shaderpack/complementary-reimagined.pw.toml"
+file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "65988a1d50a7b270522af014963a4b077a7db7b1da33b6f47d16393d6fbb145b"
 metafile = true
