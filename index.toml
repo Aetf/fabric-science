@@ -30,11 +30,6 @@ hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
-file = "mods/complementary-reimagined.pw.toml"
-hash = "85e74ff8cdf4f346693680936590c68e96c992be3cbdd35739628727537fe67b"
-metafile = true
-
-[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "9abd864619ec81ac3f03b917c79385634250686dab458b2b563026f4bcd7f2c1"
 metafile = true
@@ -136,5 +131,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "65988a1d50a7b270522af014963a4b077a7db7b1da33b6f47d16393d6fbb145b"
+hash = "85e74ff8cdf4f346693680936590c68e96c992be3cbdd35739628727537fe67b"
 metafile = true
