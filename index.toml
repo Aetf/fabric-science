@@ -35,6 +35,11 @@ hash = "9abd864619ec81ac3f03b917c79385634250686dab458b2b563026f4bcd7f2c1"
 metafile = true
 
 [[files]]
+file = "mods/dcintegration.pw.toml"
+hash = "aec695575c3bd00ccd12dbc73430a52e70295aea5335b19bb8da2098d2bf9f23"
+metafile = true
+
+[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "3e78410fbe155fb7f3d90ab9ff35cccf1b39efe3fa5bf19159003e32240d1184"
 metafile = true
