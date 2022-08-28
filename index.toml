@@ -1,0 +1,131 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ae2.pw.toml"
+hash = "ce9097e1d454e9a780d416ae117b3ffe5c7757bb6754954fa92dea5c72104b9e"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "f759eec1f2e83bcd057a908311b5efecf125ad1c9b5dd28bcdbeccac1c236a10"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "75dcdffc0d37e098ef12f1b149d68182337372e2d48653ffe0389b94b357a0de"
+metafile = true
+
+[[files]]
+file = "mods/badpackets.pw.toml"
+hash = "c59209e703e553f58306aa1a66dc30a58476f89ad2d40da540508dc72fe0311f"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
+metafile = true
+
+[[files]]
+file = "mods/cull-leaves.pw.toml"
+hash = "9abd864619ec81ac3f03b917c79385634250686dab458b2b563026f4bcd7f2c1"
+metafile = true
+
+[[files]]
+file = "mods/dynmapforge.pw.toml"
+hash = "3e78410fbe155fb7f3d90ab9ff35cccf1b39efe3fa5bf19159003e32240d1184"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
+metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+metafile = true
+
+[[files]]
+file = "mods/megane.pw.toml"
+hash = "6908b34cedb8e553a711ac918c661ecab9b13768f6b6369c9c0e14e2f0628a4b"
+metafile = true
+
+[[files]]
+file = "mods/phosphor.pw.toml"
+hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
+metafile = true
+
+[[files]]
+file = "mods/reborncore.pw.toml"
+hash = "388135bacc1e859ded4da0e8df1f115e78c7f79b32efa62ab29bf07762f60a3d"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.pw.toml"
+hash = "79c8f0a39cb0d8e3b30341ad4190b81b283abb8f117adfb539506042e08e4f7e"
+metafile = true
+
+[[files]]
+file = "mods/rpg-hud-fabric.pw.toml"
+hash = "339c49f4a5e191868f2d9a8a1de66869c260cef3a9e7af37f8a015513f8e641a"
+metafile = true
+
+[[files]]
+file = "mods/simple-backpack-fabric.pw.toml"
+hash = "56e00bbe36230bf1cc78f6cb8f8f377a6a0e0c4e10acfaec65e78a679b36265f"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "03cb6f0793621021fc5c71403aad928bca39cb29be15aa3e43e4865cdcef06ca"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "9322c7f9663b04bfbadb4fd6bb36a4ad5336bd3999a8542287b2d58834c86b83"
+metafile = true
+
+[[files]]
+file = "mods/techreborn.pw.toml"
+hash = "404b67aba7ccd3853e753ab945ab9f3762c1d1d832f38ee8068e3e1cde7f4896"
+metafile = true
+
+[[files]]
+file = "mods/traverse.pw.toml"
+hash = "4fe3176299b63901a64d78b897b7eccf1d27a2437001b722bf3a61966fc977ec"
+metafile = true
+
+[[files]]
+file = "mods/wthit.pw.toml"
+hash = "c23e80a345670527d9bb5be8a666978c344b6e5d0575b9169c38cfb5fe68019a"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b064e35edcf22a5f5b0a9a3d6e37049550fe41a43b8a22f55d796594c829ddab"
+metafile = true
+
+[[files]]
+file = "mods/yigd.pw.toml"
+hash = "a8b4ba352b7cc8fd21070bbe4fb6d45672e35d26a1bad6bb79d1dbf650926cf4"
+metafile = true
+
+[[files]]
+file = "shaderpack/complementary-reimagined.pw.toml"
+hash = "65988a1d50a7b270522af014963a4b077a7db7b1da33b6f47d16393d6fbb145b"
+metafile = true

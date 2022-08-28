@@ -1,0 +1,16 @@
+name = "Fabric Science"
+author = "Aetf"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "5978de2306bc3def56c1c126f2928e162cdeaff176bdda7f3434ce29a765f238"
+
+[versions]
+fabric = "0.14.9"
+minecraft = "1.19.2"
+
+[options]
+acceptable-game-versions = ["1.19", "1.19.1", "1.19.2"]
