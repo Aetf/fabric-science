@@ -51,12 +51,12 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "35fefbf2a09f2899361fd9a7999138e06f804aa8b89dfc5a323103a219c2d88a"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e17ae2c96de4d1c334308a80f4c63f1f071035911334186a9f1bd77496c105a5"
+hash = "d4dd336cc77340a6429082e8a6f848c9db459a77e4d5703c02beea8b2a016015"
 metafile = true
 
 [[files]]
@@ -86,7 +86,7 @@ metafile = true
 
 [[files]]
 file = "mods/reborncore.pw.toml"
-hash = "388135bacc1e859ded4da0e8df1f115e78c7f79b32efa62ab29bf07762f60a3d"
+hash = "1d9e35efccea7b5488510e6dca2685988b57fa0de3178aee0fd36f26847f49d5"
 metafile = true
 
 [[files]]
@@ -111,17 +111,17 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "03cb6f0793621021fc5c71403aad928bca39cb29be15aa3e43e4865cdcef06ca"
+hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9322c7f9663b04bfbadb4fd6bb36a4ad5336bd3999a8542287b2d58834c86b83"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
 metafile = true
 
 [[files]]
 file = "mods/techreborn.pw.toml"
-hash = "404b67aba7ccd3853e753ab945ab9f3762c1d1d832f38ee8068e3e1cde7f4896"
+hash = "f78ab8ef99f227e8e0278a4b1c235518e27c0eda3c35359127cd615d34b01b9e"
 metafile = true
 
 [[files]]
