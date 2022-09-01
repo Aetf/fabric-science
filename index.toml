@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
 
 [[files]]
+file = "dynmap/configuration.txt"
+hash = "f5b3a71cd13c70b96e60ee6750538fed0039178c6466f32a955a773ca165aebb"
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "ce9097e1d454e9a780d416ae117b3ffe5c7757bb6754954fa92dea5c72104b9e"
 metafile = true
