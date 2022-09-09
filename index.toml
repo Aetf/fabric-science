@@ -94,11 +94,6 @@ hash = "466d5892937df5aa05388291463b163b42fa454d8bfd22713484a0167ca3702d"
 metafile = true
 
 [[files]]
-file = "mods/reborncore.pw.toml"
-hash = "1d9e35efccea7b5488510e6dca2685988b57fa0de3178aee0fd36f26847f49d5"
-metafile = true
-
-[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
 metafile = true
