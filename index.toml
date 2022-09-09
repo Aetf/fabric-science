@@ -5,6 +5,14 @@ file = "LICENSE"
 hash = "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
 
 [[files]]
+file = "config/RPG-HUD"
+hash = "8c3de8c82c888303a1db6c4c87a20df9a72c7636d5572bbdbc546eb71a9b4c0f"
+
+[[files]]
+file = "config/waila/waila.json"
+hash = "53e75bb519f930125e7ce302617a66416557b71a3498a86414627b3e553fc785"
+
+[[files]]
 file = "dynmap/configuration.txt"
 hash = "f5b3a71cd13c70b96e60ee6750538fed0039178c6466f32a955a773ca165aebb"
 
@@ -50,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "39cd67c3a2db03da10508144b40aa41310d2a81183b189bd8f7086f3f5b1d49d"
+hash = "2c77cbb46a5f273a9f1c5da5bb94022c7b1560202c0c3802190958b28956a431"
 metafile = true
 
 [[files]]
@@ -136,6 +144,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "ec050ca55bf307e10b7cbf350e5fd7cd57582cbd7a1c5ef6c364a64ee671fc8d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "4a23fa54267b53ea8825ea12fb92fd05cdde7890eec5d05a8ef81d00be145fd6"
 metafile = true
 
 [[files]]
