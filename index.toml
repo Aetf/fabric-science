@@ -47,11 +47,6 @@ hash = "9abd864619ec81ac3f03b917c79385634250686dab458b2b563026f4bcd7f2c1"
 metafile = true
 
 [[files]]
-file = "mods/dcintegration.pw.toml"
-hash = "aec695575c3bd00ccd12dbc73430a52e70295aea5335b19bb8da2098d2bf9f23"
-metafile = true
-
-[[files]]
 file = "mods/dynmapforge.pw.toml"
 hash = "3e78410fbe155fb7f3d90ab9ff35cccf1b39efe3fa5bf19159003e32240d1184"
 metafile = true
@@ -119,6 +114,11 @@ metafile = true
 [[files]]
 file = "mods/simple-backpack-fabric.pw.toml"
 hash = "56e00bbe36230bf1cc78f6cb8f8f377a6a0e0c4e10acfaec65e78a679b36265f"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
+hash = "b89d24077867f2f40ea0b2c04dd265afdeec24ebc9a73734c9baa42eae24429d"
 metafile = true
 
 [[files]]
