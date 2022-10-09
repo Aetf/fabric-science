@@ -18,12 +18,12 @@ hash = "f5b3a71cd13c70b96e60ee6750538fed0039178c6466f32a955a773ca165aebb"
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "2e000c87d73bf449e1729eac606e936546659b0052ac87f8635b6c1853b31fb7"
+hash = "65633cf582beb21efc9d20f49e0684cb1ad2d6e25577b80ce61f9c8b5ce3a344"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "32fdf42d0695fe597ebccefb5fb31b423569daeeecc1c4498d85c710acd751bc"
+hash = "fb7e913e0d4a83803af320a5f71f8104f7ce9bbd3d57396c51caa7da5da028e0"
 metafile = true
 
 [[files]]
@@ -53,7 +53,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "4c71686503225e97812bb5bb0b0022ec5144b4936344c99f3b4d3edaaf16f755"
+hash = "da481c054a2671c6546413c1931ff90713edc950ad6a5462fc6798c478e01172"
 metafile = true
 
 [[files]]
@@ -103,7 +103,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "01e23be2b0b85c174b6fdf2b561aee7299e4fd1bf7170945ab23b4bdafcce86a"
+hash = "59425a808037a8e66f39d063183bec0f9337c3b27bcf09404dada731d4cd83b9"
 metafile = true
 
 [[files]]
@@ -113,12 +113,17 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backpack-fabric.pw.toml"
-hash = "c6538ffc54c884500bee7f04f1f99dc0c4c994e9d5f6765e97fa4417cb371b15"
+hash = "9e0cfc6e9bf341be13f220cba649a3420597025aebae9af7e12fa8c452ace24d"
+metafile = true
+
+[[files]]
+file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
+hash = "b89d24077867f2f40ea0b2c04dd265afdeec24ebc9a73734c9baa42eae24429d"
 metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "82585384e2026e809e34368ac23e9a1e11918aa449529ce79903c03eb4cbbc2e"
+hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
 metafile = true
 
 [[files]]
@@ -128,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/traverse.pw.toml"
-hash = "3f0e7d01b7faa108a8ada2ba9b8293af610316b10724565e030c81d6137b2646"
+hash = "2c4158c58b0de6c6e72d57477345339817918b729106912893fb6203059a5905"
 metafile = true
 
 [[files]]
@@ -138,17 +143,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ec050ca55bf307e10b7cbf350e5fd7cd57582cbd7a1c5ef6c364a64ee671fc8d"
+hash = "1e03d06406c79dacbd421b6ff85437e495d6e09a95174c4c64f349f8c4a8cc31"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4a23fa54267b53ea8825ea12fb92fd05cdde7890eec5d05a8ef81d00be145fd6"
+hash = "f7ea3e07850d2ba0475eb9f42424d329edd37c7eeb463689d6ed29d9579f9541"
 metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "6fde571ec97e407788768ead5e4451e43898ed50bef280fd8c2657eefea00edd"
+hash = "a1e384828334498c3b3431a28b4cf23aa8dd78f4d06f7cf54f7bae785922974c"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Traverse"
-filename = "traverse-6.0.1.jar"
+filename = "traverse-6.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/kXygSBVI/versions/qBzaRw9J/traverse-6.0.1.jar"
+url = "https://cdn.modrinth.com/data/kXygSBVI/versions/sU487pjm/traverse-6.0.4.jar"
 hash-format = "sha1"
-hash = "6a8e4943c04918e302004c3615bafed72d9a7152"
+hash = "7d5553730703f29e3de55c10c9b7a2011385f624"
 
 [update]
 [update.modrinth]
 mod-id = "kXygSBVI"
-version = "qBzaRw9J"
+version = "sU487pjm"
