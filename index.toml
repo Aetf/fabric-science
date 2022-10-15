@@ -52,6 +52,11 @@ hash = "3e78410fbe155fb7f3d90ab9ff35cccf1b39efe3fa5bf19159003e32240d1184"
 metafile = true
 
 [[files]]
+file = "mods/elytra-slot-fabric.pw.toml"
+hash = "0e47b1328fabc6872c409910a090ec24051381f23e289efd6d0507d63013adbc"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "da481c054a2671c6546413c1931ff90713edc950ad6a5462fc6798c478e01172"
 metafile = true
@@ -134,6 +139,11 @@ metafile = true
 [[files]]
 file = "mods/traverse.pw.toml"
 hash = "2c4158c58b0de6c6e72d57477345339817918b729106912893fb6203059a5905"
+metafile = true
+
+[[files]]
+file = "mods/trinkets.pw.toml"
+hash = "3fd72c1dc35ee7b8361861b6c13bd6eca5ef93afe89e55970bacdf8a2c57759e"
 metafile = true
 
 [[files]]
