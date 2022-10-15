@@ -18,7 +18,7 @@ hash = "f5b3a71cd13c70b96e60ee6750538fed0039178c6466f32a955a773ca165aebb"
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "65633cf582beb21efc9d20f49e0684cb1ad2d6e25577b80ce61f9c8b5ce3a344"
+hash = "a3c7b01e4ea4789a5059097edc731458afd3c7ddd1ea7f8c95e594d256232e0d"
 metafile = true
 
 [[files]]
@@ -63,7 +63,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "c3abf99ceae59c52190eff3132d949073ef39594ce38a0e90a98eca835a0efc4"
+hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7cc268ba8c316a732881e631e00db7cf8db0891f24155475db0a4e88840cdfe8"
+hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
 metafile = true
 
 [[files]]
@@ -138,17 +138,17 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "e9c8538c8a6ab6a67808a2eece408e4da0144dd47024a00c15ea226781143d59"
+hash = "048e778053ae0696e7aef8f27a8e8df2647dee02e4f85eda9b7d6149f6360fde"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "1e03d06406c79dacbd421b6ff85437e495d6e09a95174c4c64f349f8c4a8cc31"
+hash = "13a87b21bb54900af31364fed22b2c69a178ffaa490d5f6bb84bbf637df25077"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f7ea3e07850d2ba0475eb9f42424d329edd37c7eeb463689d6ed29d9579f9541"
+hash = "b1af4eefa1a2323bcfabb94592712b34ef3088098e8e26086ff48abe8cf0baf9"
 metafile = true
 
 [[files]]
