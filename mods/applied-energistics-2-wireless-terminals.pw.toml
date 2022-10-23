@@ -1,13 +1,13 @@
 name = "Applied Energistics 2 Wireless Terminals"
-filename = "AE2WTLib-12.7.0.jar"
+filename = "AE2WTLib-12.8.4-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/pNabrMMw/versions/mGtj8AME/AE2WTLib-12.7.0.jar"
+url = "https://cdn.modrinth.com/data/pNabrMMw/versions/SsCru80f/AE2WTLib-12.8.4-beta.jar"
 hash-format = "sha1"
-hash = "3835439b155d3cf4284428f566fc804ab5d0330b"
+hash = "10194d4053bb6c46c05b2fc17a3e60d815d1b3f7"
 
 [update]
 [update.modrinth]
 mod-id = "pNabrMMw"
-version = "mGtj8AME"
+version = "SsCru80f"

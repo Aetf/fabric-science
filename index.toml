@@ -18,17 +18,17 @@ hash = "f5b3a71cd13c70b96e60ee6750538fed0039178c6466f32a955a773ca165aebb"
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "a3c7b01e4ea4789a5059097edc731458afd3c7ddd1ea7f8c95e594d256232e0d"
+hash = "2c341b68e41f5049e613a200cf8da92c724911b2184ba86ae47536004bc4fbbb"
 metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "fb7e913e0d4a83803af320a5f71f8104f7ce9bbd3d57396c51caa7da5da028e0"
+hash = "38c502f5300f60ee40dac2eacfcc320714e1cf21262d9e48cdccaf0d239de401"
 metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "bc08ed290f7c076e8297b38f80af9694aa5972318ef29a99693a3e297b76f386"
+hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
 metafile = true
 
 [[files]]
@@ -58,7 +58,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "da481c054a2671c6546413c1931ff90713edc950ad6a5462fc6798c478e01172"
+hash = "234cd2ef3c32121ce1219c62afdbe7273fe79f95252c322ec3a28411f42c721d"
 metafile = true
 
 [[files]]
@@ -78,7 +78,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
+hash = "7f4a8312d10e805cce174067450bb7045b55281cf8de37b0bedbf808a7ae6d31"
 metafile = true
 
 [[files]]
@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "59425a808037a8e66f39d063183bec0f9337c3b27bcf09404dada731d4cd83b9"
+hash = "001350237bce8df4bf29e36f566199cc8ccb37f2a2b9111c6e043894ab14e9ae"
 metafile = true
 
 [[files]]
@@ -148,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "048e778053ae0696e7aef8f27a8e8df2647dee02e4f85eda9b7d6149f6360fde"
+hash = "c1a5721b2ff6389a10c8f2ab592ef8836ff6b60a44e6a95f9140510962d04574"
 metafile = true
 
 [[files]]
