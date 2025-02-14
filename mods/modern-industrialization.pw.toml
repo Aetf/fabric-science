@@ -1,13 +1,13 @@
 name = "Modern Industrialization"
-filename = "Modern-Industrialization-1.4.2-beta.jar"
+filename = "Modern-Industrialization-1.6.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Gov5Dboq/versions/dkCIgQuI/Modern-Industrialization-1.4.2-beta.jar"
-hash-format = "sha1"
-hash = "cb63bd16927d198bcd5043f9be7ff42d688d1769"
+url = "https://cdn.modrinth.com/data/Gov5Dboq/versions/2WEOIbpR/Modern-Industrialization-1.6.19.jar"
+hash-format = "sha512"
+hash = "68c5b6668ebb7736620ba4ff58283d64d0d9be359a4e521954547d9cff5e787935a0a0d9ee6bac6f60493149823c036fa0776358e597bf752bbf203250087349"
 
 [update]
 [update.modrinth]
 mod-id = "Gov5Dboq"
-version = "dkCIgQuI"
+version = "2WEOIbpR"
