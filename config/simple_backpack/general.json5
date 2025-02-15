@@ -1,0 +1,12 @@
+{
+	/* ***********************
+	   General Settings
+	   To bbe safe,
+	   Only change max storage
+	   if bunndles are empty
+	   Use with caution
+	   ***********************
+	*/
+	"simpleBundleMaxStorage": 3456,
+	"voidBundleMaxStorage": 3456
+}
