@@ -6,11 +6,251 @@ hash = "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4"
 
 [[files]]
 file = "config/RPG-HUD"
-hash = "8c3de8c82c888303a1db6c4c87a20df9a72c7636d5572bbdbc546eb71a9b4c0f"
+hash = "241b1f68eea4479fa8c2b2a6799a6913bdaba84d0420d29047227c2dcd05e6e5"
 
 [[files]]
-file = "config/waila/waila.json"
-hash = "53e75bb519f930125e7ce302617a66416557b71a3498a86414627b3e553fc785"
+file = "config/ae2/client.json"
+hash = "9534d1c8dac19fba4d5a953832cc4f832c1c8246b73929a5eef3f002e152d2b1"
+
+[[files]]
+file = "config/ae2/common.json"
+hash = "6323a834e48a3571bc9dbff0cf0e960a3db9e6390df3e7d9200a62bb5028b0f2"
+
+[[files]]
+file = "config/cardinal-components-api.properties"
+hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
+
+[[files]]
+file = "config/cullleaves.json"
+hash = "6ba25b17d218c13aecd7773fb0dd9f01783997854cc7123891e526e82490662e"
+
+[[files]]
+file = "config/de/mari_023/ae2wtlib.json5"
+hash = "e9838cc6c67a746008e2c8bc88577be4c350d4f990ee5ca4861f07bce76e36ea"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "1f2029dd3a8d7f11dbc6f0c5c87cb7ad17efe2c3b0801758dc7c1bfc63b079b2"
+
+[[files]]
+file = "config/indium-renderer.properties"
+hash = "efe9c11c85ff169bba1961ccc58376576db4755e8b2d235d9f97286ce81b1eab"
+
+[[files]]
+file = "config/inmis.json"
+hash = "b79272bec2404e0e2779ca0686fd8fbf67c7511a44339fea60b41916b7f7df88"
+
+[[files]]
+file = "config/iris.properties"
+hash = "8eea9ca7914c7882a08d6560128f02880b16d63508c975cf1f9078007ab0df5a"
+
+[[files]]
+file = "config/libgui.json5"
+hash = "6814fc05aa8d6664712b056cfd6cb51cb4bafeabe3f274b9cf5e19e27eff406d"
+
+[[files]]
+file = "config/lithium.properties"
+hash = "4f5890cb55b35047fdb433efa30060827aa9415e0850220f85b2c8ad663d6722"
+
+[[files]]
+file = "config/magna.json"
+hash = "41b63f8dd471047e1e5d4ffdc3ef2802f7a766c8408b59be050b529576d404e2"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
+
+[[files]]
+file = "config/modern_industrialization.toml"
+hash = "0ed939cf9fd3fdc0803bda963fb38e7f6b71d51e4e9edd54752f6f83caf3956f"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
+
+[[files]]
+file = "config/noindium.json"
+hash = "ed093ed833011b0f97e7b6d5054def07d6d76e67e9f0ae696a4471d77abee112"
+
+[[files]]
+file = "config/pal.properties"
+hash = "3181c3ac25802f53706bd7fb7aaaa59a4d799c883687a89389146be832b853c0"
+
+[[files]]
+file = "config/patchouli.json5"
+hash = "92dc9dadb34707462bf5574bb597430b3b34c65eccf964a31680d402f0431ccf"
+
+[[files]]
+file = "config/reborncore/misc.json"
+hash = "820f40848e6daeb5d9c1998f04082cc419865c84b968cbdcc6c2e39798bd1f71"
+
+[[files]]
+file = "config/roughlyenoughitems/changelog.txt"
+hash = "8d3828692497be68d54e98820db28df65ef79b28f16ec4ebeef0e0916588dd8e"
+
+[[files]]
+file = "config/roughlyenoughitems/collapsible.json5"
+hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
+
+[[files]]
+file = "config/roughlyenoughitems/config.json5"
+hash = "1b109520b7e17eb9ac1be1e1d6e16f9db79e5dfc96b1a455a4e7743f4cd004c8"
+
+[[files]]
+file = "config/roughlyenoughitems/favorites.json5"
+hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
+
+[[files]]
+file = "config/roughlyenoughitems/hints.json"
+hash = "f8bbdb3f8f3814b3fd0d02e6c64f1e7596de1f9d22e33b2285e71439ea2aa142"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin.properties"
+hash = "fbcaf77efb12b1a93a84d4e4285bd26af076f4e545695c19743aa63ee9edd34d"
+
+[[files]]
+file = "config/roughlyenoughitems/pinyin_double.properties"
+hash = "b59df8def2f3bfb93cec0135552d6715bcc2d97fd663e9966987c074795f4429"
+
+[[files]]
+file = "config/simple_backpack/general.json5"
+hash = "274f79aaa046774b0196d4d569196ab03b67f89237c87c154e097368cad679e5"
+
+[[files]]
+file = "config/sodium-extra-options.json"
+hash = "1afb1be95f3801de574d377c45ca93dfba335a34175394f1badd3b42c44064cd"
+
+[[files]]
+file = "config/sodium-extra.properties"
+hash = "a2f1b47c1eaa119ab34727f1d43c2506cb3d7f17ba8fb4efb49e20c8e0b58e70"
+
+[[files]]
+file = "config/sodium-fingerprint.json"
+hash = "ee614c6924c4bd438d0b9cf27a40c301d473f97d9bf9f4160e92c1e4c6b63c87"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "e170cafd722ce62aa061d6770af08274391dd17064f58e82e2ff84af2b1f95ac"
+
+[[files]]
+file = "config/techreborn/generators.json"
+hash = "734be3731d1972aef664fd75644dfbb8e4a376a8888420fc2560b65abb2700d7"
+
+[[files]]
+file = "config/techreborn/items.json"
+hash = "b4c488c2115b9a7f1905e081402921c3df5b796fceaaa59ff5ace88aaea8ce18"
+
+[[files]]
+file = "config/techreborn/machines.json"
+hash = "dc1cf8cc5e26f2df6800bb1c3b51f923d3313fef557d2505362a7562ecc08a0f"
+
+[[files]]
+file = "config/techreborn/misc.json"
+hash = "aaeb6d0faf6f2b0aa9580b763c9be1abcbdb789038e7599296b671bbedabed67"
+
+[[files]]
+file = "config/techreborn/world.json"
+hash = "67a275aa2434508b06f2f8d08e35d75d7fe831728ae4851b5497b8b5067ccfda"
+
+[[files]]
+file = "config/terrablender.toml"
+hash = "c73292a81a8409d74edb12b0bb9226bda03f39e11afc8abfe6bff52cc30ef480"
+
+[[files]]
+file = "config/traverse/biome.json"
+hash = "e54af6ff51f52bffcbacd1a0df7b882ec54e54ada65077ae4a0e6b31aa805d4e"
+
+[[files]]
+file = "config/waila/blacklist.json5"
+hash = "582f7e30fd40975d418c3a5ae553b753712a2bbbbd3d76d4534262430e0d131e"
+
+[[files]]
+file = "config/waila/blacklist.json5_2025.02.15.01.03.15"
+hash = "47e44452bd7debdfcb268129be5f926048fc8a15f6da8da269acad2052038845"
+
+[[files]]
+file = "config/waila/debug.json5"
+hash = "e54d2423726125dd300297ea935fbfd82cf7c374fbd4ee2d85b7ba140e3ba97a"
+
+[[files]]
+file = "config/waila/extra/energy_blacklist.json5"
+hash = "e8243ffac9e64e2b025195ebfc4b1acafb98e5e89c0167e673470d65d4c31810"
+
+[[files]]
+file = "config/waila/extra/fluid_blacklist.json5"
+hash = "278e964061848df94ac89d7610987afe3d008f1ca5fe6119410dc2e07a2aca10"
+
+[[files]]
+file = "config/waila/extra/item_blacklist.json5"
+hash = "9ef0b7479c81e1a941eaa44fcdc571bdf9cb3ddb3d234a64f3dff0a8ccbda41e"
+
+[[files]]
+file = "config/waila/extra/progress_blacklist.json5"
+hash = "b8f09c52b1a975dc1f0ba65c7f4b6757dfc1bc784b87e0530046adaacbadcec4"
+
+[[files]]
+file = "config/waila/megane.json"
+hash = "cc7ab636f6a8e6b52caaaaa73548dc65d3ca060f8c1399342b5cee06e758b095"
+
+[[files]]
+file = "config/waila/megane_modules.json"
+hash = "541919146b91315f258bcc5c7e8e13b3b1af76fb29d75409cdb5cbe9cfa73480"
+
+[[files]]
+file = "config/waila/plugin_toggle.json5"
+hash = "6f90b073d11ed34773afb2e42743d1093444e352d184cafa7a55fe3ccff6fe88"
+
+[[files]]
+file = "config/waila/waila.json5"
+hash = "96b15ffdf81c84dbd3e5154f696e5afa477e8ab8c13ec4f5d1a0f3c9f6f835cf"
+
+[[files]]
+file = "config/waila/waila_plugins.json5"
+hash = "cf5e3351da62199449b6e03dda2d7b25d92db400539e20d9137a97a6e1d2e4ff"
+
+[[files]]
+file = "config/worldstripper.json"
+hash = "57c41cf3837e074f662fc2389ffc32b61fd6525cd2bf9b46debae4088d0a6684"
+
+[[files]]
+file = "config/worldstripper/stripper.json"
+hash = "38ec373eeff4c00db41773158973200b896d43c1b8179bc7d057472933d02bf6"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "b410746ddef0f7dd5f1d860ef3fcd6ad29c10988abbf6281181cb9c3acb628ca"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "82195680e0c44d543d897bdd939eee7ebe48bcd45b4f8d84f3d42fcde28599fe"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "2552aa28177cbf7d26cf7f6d0cb1b7924c8bd58d28b219b06cd30d77b4683e33"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "519f811142b420c13dcf133196b9edd93046cf37e30c63afaf4f0e962b4fc94a"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "ab09b6171d1f5f9c15d3ea653be739b53bca6f88db1ec38ae80575143c4c68cd"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "076dd1534baee0e2ef22ac672924420dc0b0300c4044baf779f38b9ae71c4312"
+
+[[files]]
+file = "config/yigd.json"
+hash = "7ebc76952a7644072a1ff597d32f3472e6129e61257d4ef115e411a5b4682832"
+
+[[files]]
+file = "config/yigd.toml"
+hash = "44b20fa9633ed9aafe8016b9dc294b039a9dc86f2bc9212f9ba20132727b9b6f"
 
 [[files]]
 file = "dynmap/configuration.txt"
