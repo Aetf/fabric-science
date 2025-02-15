@@ -1,13 +1,13 @@
 name = "megane"
-filename = "megane-fabric-19.2.2.jar"
+filename = "megane-fabric-20.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ZNk5S5U6/versions/wTv68aYj/megane-fabric-19.2.2.jar"
+url = "https://cdn.modrinth.com/data/ZNk5S5U6/versions/oGKLI8RF/megane-fabric-20.1.2.jar"
 hash-format = "sha512"
-hash = "3000e5ccd85090dbf145d77e171138cabbd44a642a4542b6c7ba1b41b717f8cb4e0d475b98abb5ba258f4ddba3b696eb88b59d0088a68cfce00a8b9680b1f1a9"
+hash = "b61156cb403a73883ad2f574dd372ec087bbf2ae22a0de03dc2ee4af4ed9bf29fd328833c83f83ed84162028d1531e59320fe685f8b47e64f80cd41cce28b4db"
 
 [update]
 [update.modrinth]
 mod-id = "ZNk5S5U6"
-version = "wTv68aYj"
+version = "oGKLI8RF"
