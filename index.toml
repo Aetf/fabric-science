@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/craterlib.pw.toml"
-hash = "78704d2e542f9e914ddc8bdd163fa3f88d13782f58377dea42f4cc368f1c08d4"
+hash = "c9ed6807dc52c2deaf795356f37b1713835ec5f5495a546f191331eda6d2613d"
 metafile = true
 
 [[files]]
@@ -57,8 +57,8 @@ hash = "c0b79b01dfd59e8a8c713f96d6d432fd8294573003134e8cc2b6e5ce12fcc074"
 metafile = true
 
 [[files]]
-file = "mods/elytra-slot-fabric.pw.toml"
-hash = "4931db920c57c722fc637de31f4b6bf3dd7a770a03e5788cdfb2916c82decd3c"
+file = "mods/elytra-slot.pw.toml"
+hash = "2f81fce71e99aa71859987861193993ab635095b4c31a364db3fb81e980235f4"
 metafile = true
 
 [[files]]
@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/inmis.pw.toml"
-hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
+hash = "2941756eef41aa00000812e105227ac3655cb46163209595188ecd4ae2223bf2"
 metafile = true
 
 [[files]]
@@ -122,18 +122,18 @@ hash = "58bea4e5ff68fb9d36045ab6f1f2918b14e0ae6f753f7729de4911af736a9a57"
 metafile = true
 
 [[files]]
-file = "mods/rpg-hud-fabric.pw.toml"
-hash = "339c49f4a5e191868f2d9a8a1de66869c260cef3a9e7af37f8a015513f8e641a"
+file = "mods/rpg-hud.pw.toml"
+hash = "0e60cfb6b4971d3293e5927b1c90d07d8d87aea6e47701d654fad601dba2ce2e"
+metafile = true
+
+[[files]]
+file = "mods/sdlink.pw.toml"
+hash = "b9a257cc1a5488a7f95cea6e78048986df5984daf8419171d2374207c71a8c02"
 metafile = true
 
 [[files]]
 file = "mods/simple-backpack-fabric.pw.toml"
 hash = "9e0cfc6e9bf341be13f220cba649a3420597025aebae9af7e12fa8c452ace24d"
-metafile = true
-
-[[files]]
-file = "mods/simple-discord-link-bot-forge-fabric-spigot.pw.toml"
-hash = "200914c3c32a49919902d6862cc7642c849cb1cc496970669481a3730020e991"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "bbd4ba6c9d65822511fcb47417a613481337b11f4fa0ec85080e823bc0c1b662"
+hash = "9438f5b3dd6e38e27605d20fee58414a9cdbcfe26994d83342aa3ad09a4870b1"
 metafile = true
 
 [[files]]
@@ -168,7 +168,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "b20c61f95968513080938bd3e8523f5eaaa4f7b9295aabe0cc5763a4ae7c1212"
+hash = "3447c94697e7a906b65ec4d1bb2187457041ea7158a60a0da1483b5219bf06ea"
 metafile = true
 
 [[files]]

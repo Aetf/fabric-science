@@ -3,11 +3,11 @@ filename = "CraterLib-Fabric-1.19.2-2.1.3.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d52c40bcc2186f88d244b25aa021015f3fa4aef1"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/e6qxvWjJ/CraterLib-Fabric-1.19.2-2.1.3.jar"
+hash-format = "sha512"
+hash = "9a398ec3eba8c20de91f10522a14fcd29bb5c4a74a7f53ad3848fb6a0e1603ae618e43d59f09c0b03369048518c5e8f357a13578e7705bcfadc28624699caaf4"
 
 [update]
-[update.curseforge]
-file-id = 6149971
-project-id = 867099
+[update.modrinth]
+mod-id = "Nn8Wasaq"
+version = "e6qxvWjJ"

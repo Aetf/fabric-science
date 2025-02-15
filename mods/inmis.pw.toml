@@ -3,11 +3,11 @@ filename = "inmis-2.7.1-1.19.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "97be0765261b1356e83c4d1a1421fd9a6e88237d"
-mode = "metadata:curseforge"
+url = "https://cdn.modrinth.com/data/I0UYcPa0/versions/X9DLrgl1/inmis-2.7.1-1.19.jar"
+hash-format = "sha512"
+hash = "a17a5577a2c98a3df034d8eee96afa78ba1af446db69a4357a036674d345f713ff5eb02e852e3d8895cfb16b3df21a1316986e7d99cda271c0318aff5bf3cff6"
 
 [update]
-[update.curseforge]
-file-id = 4031400
-project-id = 369254
+[update.modrinth]
+mod-id = "I0UYcPa0"
+version = "X9DLrgl1"
