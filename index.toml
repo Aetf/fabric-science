@@ -42,6 +42,11 @@ hash = "68d9c6e0943edf3cdb03a487c9791beaccc75f70cf2e942175f119303caa73a7"
 metafile = true
 
 [[files]]
+file = "mods/craterlib.pw.toml"
+hash = "78704d2e542f9e914ddc8bdd163fa3f88d13782f58377dea42f4cc368f1c08d4"
+metafile = true
+
+[[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "b798d828b8977fc0d67f079484c9ecd7bcc8a421fc933862532bcceecac75656"
 metafile = true
