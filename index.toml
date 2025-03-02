@@ -308,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "3d41978dc3fd1d7b7eebe51a7c04e49707e7e7c66f764a1bed0cc214e4032995"
+hash = "cb85864ff2d3936a5ab4f7e7ccf763dbda0153412ba52c95a63b29677a012aaf"
 metafile = true
 
 [[files]]
@@ -363,7 +363,7 @@ metafile = true
 
 [[files]]
 file = "mods/sdlink.pw.toml"
-hash = "b9a257cc1a5488a7f95cea6e78048986df5984daf8419171d2374207c71a8c02"
+hash = "e1b7229154471533e62bc9d71e74300b6f6eb290efeedeb9480cde01336388de"
 metafile = true
 
 [[files]]
@@ -378,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "350cd01b8b55cea244c2b0ea7bb3c9a6ba873cea4701528c62101c63af6b027a"
+hash = "11ad5fd79e9295c8855e3be8b3bf9bf4538598863822e4281a6c3a73b10b5159"
 metafile = true
 
 [[files]]
@@ -403,7 +403,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "41c7ba12533210f34233faa05bd14f304f4f61eb724a412f408207551db4e2d8"
+hash = "d5763cae561c3c23d431275e5d930a43bae2cc8e71f39a50a1b3d15b70a5b3f5"
 metafile = true
 
 [[files]]
