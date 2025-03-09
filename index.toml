@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
 
 [[files]]
+file = "config/.packwizignore"
+hash = "7c9fabd9bdbc70f28271ddd4743fa0cce4303a3d655dcf5264cf5a2920999b88"
+
+[[files]]
 file = "config/RPG-HUD"
 hash = "241b1f68eea4479fa8c2b2a6799a6913bdaba84d0420d29047227c2dcd05e6e5"
 
@@ -83,10 +87,6 @@ hash = "f8bbdb3f8f3814b3fd0d02e6c64f1e7596de1f9d22e33b2285e71439ea2aa142"
 [[files]]
 file = "config/roughlyenoughitems/pinyin_double.properties"
 hash = "48ff912741deee4ce3ef37c1a9d306bc313bf2969253a6980ab4f1afba46150b"
-
-[[files]]
-file = "config/roughlyenoughitems/unihan.zip"
-hash = "2ae4519b2b82cd4d15379c17e57bfb12c33c0f54da4977de03b2b04bcf11852d"
 
 [[files]]
 file = "config/simple_backpack/general.json5"
