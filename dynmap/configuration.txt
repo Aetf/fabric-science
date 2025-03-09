@@ -27,10 +27,10 @@ deftemplatesuffix: hi_boost_xhi
 #  postgres: PostgreSQL database, at hostname:port in database, accessed via userid with password
 storage:
   # Filetree storage (standard tree of image files for maps)
-  type: filetree
+  #type: filetree
   # SQLite db for map storage (uses dbfile as storage location)
-  #type: sqlite
-  #dbfile: dynmap.db
+  type: sqlite
+  dbfile: dynmap.db
   # MySQL DB for map storage (at 'hostname':'port' in database 'database' using user 'userid' password 'password' and table prefix 'prefix'
   #type: mysql
   #hostname: localhost

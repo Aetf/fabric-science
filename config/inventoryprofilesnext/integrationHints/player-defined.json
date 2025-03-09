@@ -1,0 +1,32 @@
+{
+    "net.minecraft.class_490": {
+        "buttonHints": {
+            "PROFILE_SELECTOR": {
+                "bottom": -191
+            },
+            "SETTINGS": {
+                "horizontalOffset": 238,
+                "top": 83
+            }
+        }
+    },
+    "draylar.inmis.ui.BackpackHandledScreen": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 227,
+                "top": 15
+            }
+        }
+    },
+    "net.minecraft.class_476": {
+        "buttonHints": {
+            "SETTINGS": {
+                "horizontalOffset": 226,
+                "top": -11
+            }
+        }
+    },
+    "aztech.modern_industrialization.machines.gui.MachineScreen": {
+        "ignore": true
+    }
+}
