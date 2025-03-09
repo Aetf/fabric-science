@@ -3,6 +3,9 @@
         "highlight_foused_items": {
             "value": false
         },
+        "enable_profiles": {
+            "value": false
+        },
         "first_run": false
     },
     "GuiSettings": {
@@ -10,6 +13,9 @@
             "value": false
         },
         "enable_profiles_ui": {
+            "value": false
+        },
+        "enable_inventory_settings_button": {
             "value": false
         },
         "continuous_crafting_saved_value": false

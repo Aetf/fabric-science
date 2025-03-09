@@ -38,7 +38,7 @@ hash = "56e594b8f0b25019631d5abe77bfb6f3beafada7a3aa70b3571426024d1d77d3"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "192879728ae3eeb2fa5c2a1ba4f1ffb4f908403792924e7f7aa1a279ba53457d"
+hash = "26bcf9d5f519e656fc9fe93f014dc25e49268f4d840d9b7f4222021be10619bc"
 
 [[files]]
 file = "config/magna.json"
@@ -186,7 +186,7 @@ hash = "73b926026bc35425d5f47bd9b3eeff1b1665d6fae3b19e5fca1d1799610693da"
 
 [[files]]
 file = "config/yigd.json"
-hash = "3612aa5fa518845e308b663be32f6f3b9ca044c2938027ed7325f5a659b29ab8"
+hash = "8079ddc7ec6de31744ea284af8cfb51835acb3648eb5201cb7bf86e4d3a14191"
 
 [[files]]
 file = "dynmap/configuration.txt"

@@ -24,8 +24,8 @@
   },
   "expConfig": {
     "dropBehaviour": "PERCENTAGE",
-    "dropPercentage": 0,
-    "keepPercentage": 100
+    "dropPercentage": 100,
+    "keepPercentage": 0
   },
   "graveConfig": {
     "enabled": true,
