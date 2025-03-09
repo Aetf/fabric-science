@@ -288,6 +288,11 @@ hash = "b6e57843eaee1195dc48e8e4143ad872495fde2eb232cad0b83ba50754d6dcbc"
 metafile = true
 
 [[files]]
+file = "mods/modern-industrialization-sound-addon.pw.toml"
+hash = "e8243335a152083a9b9f217ee6734a8c1586a7fd8b31fe76fa6f76761e923cb7"
+metafile = true
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "d619b82eb47d544b8465f483b9d671fa275d1114ae8c2126d6bd56c06348c551"
 metafile = true
