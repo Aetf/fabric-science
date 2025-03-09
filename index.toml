@@ -5,10 +5,6 @@ file = "LICENSE"
 hash = "1eb85fc97224598dad1852b5d6483bbcf0aa8608790dcc657a5a2a761ae9c8c6"
 
 [[files]]
-file = "config/.packwizignore"
-hash = "7c9fabd9bdbc70f28271ddd4743fa0cce4303a3d655dcf5264cf5a2920999b88"
-
-[[files]]
 file = "config/RPG-HUD"
 hash = "241b1f68eea4479fa8c2b2a6799a6913bdaba84d0420d29047227c2dcd05e6e5"
 
