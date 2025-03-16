@@ -27,10 +27,10 @@ deftemplatesuffix: hi_boost_xhi
 #  postgres: PostgreSQL database, at hostname:port in database, accessed via userid with password
 storage:
   # Filetree storage (standard tree of image files for maps)
-  #type: filetree
+  type: filetree
   # SQLite db for map storage (uses dbfile as storage location)
-  type: sqlite
-  dbfile: dynmap.db
+  #type: sqlite
+  #dbfile: dynmap.db
   # MySQL DB for map storage (at 'hostname':'port' in database 'database' using user 'userid' password 'password' and table prefix 'prefix'
   #type: mysql
   #hostname: localhost
@@ -85,35 +85,7 @@ components:
     hide-if-invisiblity-potion: true
     # If true, player names are not shown on map, chat, list
     hidenames: false
-  #- class: org.dynmap.JsonFileClientUpdateComponent
-  #  writeinterval: 1
-  #  sendhealth: true
-  #  sendposition: true
-  #  allowwebchat: true
-  #  webchat-interval: 5
-  #  hidewebchatip: false
-  #  includehiddenplayers: false
-  #  use-name-colors: false
-  #  use-player-login-ip: false
-  #  require-player-login-ip: false
-  #  block-banned-player-chat: true
-  #  hideifshadow: 0
-  #  hideifundercover: 0
-  #  hideifsneaking: false
-  #  # Require login for web-to-server chat (requires login-enabled: true)
-  #  webchat-requires-login: false
-  #  # If set to true, users must have dynmap.webchat permission in order to chat
-  #  webchat-permissions: false
-  #  # Limit length of single chat messages
-  #  chatlengthlimit: 256
-  #  hide-if-invisiblity-potion: true
-  #  hidenames: false
-   
-  - class: org.dynmap.SimpleWebChatComponent
-    allowchat: true
-    # If true, web UI users can supply name for chat using 'playername' URL parameter.  'trustclientname' must also be set true.
-    allowurlname: false
-  
+
   # Note: this component is needed for the dmarker commands, and for the Marker API to be available to other plugins
   - class: org.dynmap.MarkersComponent
     type: markers
@@ -144,21 +116,8 @@ components:
     worldborderlabel: "Border"
     
   - class: org.dynmap.ClientComponent
-    type: chat
-    allowurlname: false
-  - class: org.dynmap.ClientComponent
     type: chatballoon
     focuschatballoons: false
-  - class: org.dynmap.ClientComponent
-    type: chatbox
-    showplayerfaces: true
-    messagettl: 5
-    # Optional: set number of lines in scrollable message history: if set, messagettl is not used to age out messages
-    #scrollback: 100
-    # Optional: set maximum number of lines visible for chatbox
-    #visiblelines: 10
-    # Optional: send push button
-    sendbutton: false
   - class: org.dynmap.ClientComponent
     type: playermarkers
     showplayerfaces: true
@@ -175,11 +134,6 @@ components:
     layerprio: 0
     # Optional - label for player marker layer (default is 'Players')
     label: "Players"
-    
-  #- class: org.dynmap.ClientComponent
-  #  type: digitalclock
-  - class: org.dynmap.ClientComponent
-    type: link
     
   - class: org.dynmap.ClientComponent
     type: timeofdayclock
@@ -475,7 +429,7 @@ soft-ref-cache: true
 
 # Published public URL for Dynmap server (allows users to use 'dynmap url' command to get public URL usable to access server
 # If not set, 'dynmap url' will not return anything.  URL should be fully qualified (e.g. https://mc.westeroscraft.com/)
-#publicURL: http://my.greatserver.com/dynmap
+publicURL: http://mcmap.unlimited-code.works
 
 # Set to true to enable verbose startup messages - can help with debugging map configuration problems
 # Set to false for a much quieter startup log
