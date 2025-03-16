@@ -190,7 +190,7 @@ hash = "8079ddc7ec6de31744ea284af8cfb51835acb3648eb5201cb7bf86e4d3a14191"
 
 [[files]]
 file = "dynmap/configuration.txt"
-hash = "eaebb2df85766ecc9e0e8d1f3aa85c6bfb4be6639324ce0701e22f5d3b032423"
+hash = "52ad3b3e945b311010b8edbb8bf4956bf2e3c8e8767533020d885e3772607866"
 
 [[files]]
 file = "mods/ae2.pw.toml"
