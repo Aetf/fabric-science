@@ -26,7 +26,7 @@ hash = "6323a834e48a3571bc9dbff0cf0e960a3db9e6390df3e7d9200a62bb5028b0f2"
 
 [[files]]
 file = "config/emi.css"
-hash = "e2ce708ad7411494c3a0d0018294f4b53e6ac60a29623d324eb4336c3dea480f"
+hash = "5b24e170dab01ecaa0dae2b857f7ca8ac984f7d6d9a6b95bdbeaae82fa01d1d1"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
