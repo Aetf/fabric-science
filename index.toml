@@ -65,6 +65,10 @@ file = "config/modern_industrialization.toml"
 hash = "fa8624fbd540ecafb245a14f42e5cf0fc6f14fa606a2ff6a3cc0e6b4d6918d0e"
 
 [[files]]
+file = "config/resourcepackoverrides.json"
+hash = "16924521e7f67de07b57edc65ebccfc87dbbc783fd6007f904bb2c39e173ab17"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "9d0036f2512507b7edd77b563b3e8f6dedab595f6c3e000c2942472279b1c96b"
 
@@ -245,6 +249,11 @@ hash = "09306b955060349986ccf6a6d2a67f1e019fa172a7dc690dd6007f81c966309a"
 metafile = true
 
 [[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
 file = "mods/sdlink.pw.toml"
 hash = "e1b7229154471533e62bc9d71e74300b6f6eb290efeedeb9480cde01336388de"
 metafile = true
@@ -283,6 +292,14 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "f1fef8d778b4fe3e799dfb5cdc05096844478835e10df9238392bfd208ff3e84"
 metafile = true
+
+[[files]]
+file = "resourcepacks/emi-ae2-mi/assets/emi/recipe/defaults/fabric-science.json"
+hash = "639f6bf7e7d49d5a34a8688afc774d6c50beef057f65024d688f440ea64a003a"
+
+[[files]]
+file = "resourcepacks/emi-ae2-mi/pack.mcmeta"
+hash = "f6126d6950477d7c6be0210c0dd9cc037ada69bd390ed6eef21e540d907360cc"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"

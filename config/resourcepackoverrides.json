@@ -1,0 +1,11 @@
+{
+  "default_packs": [
+    "file/emi-ae2-mi"
+  ],
+  "pack_overrides": {
+    "file/emi-ae2-mi": {
+      "hidden": true,
+      "required": true
+    }
+  }
+}
