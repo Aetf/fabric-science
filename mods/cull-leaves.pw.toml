@@ -1,13 +1,13 @@
 name = "Cull Leaves"
-filename = "cullleaves-fabric-3.2.0.jar"
+filename = "cullleaves-neoforge-4.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/3rzOQJrq/cullleaves-fabric-3.2.0.jar"
+url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/W9HrxM8v/cullleaves-neoforge-4.0.1.jar"
 hash-format = "sha512"
-hash = "a58ae6f484dec0e88e09e449a76ba0489b2535d2b330e714ba803e6c08dba2601edc851635058b129fdd78149dc8d8221bd767141bfd55546310065a0c61f4f5"
+hash = "5bbe92772ffc697055a68bf1221f9e5e2072b0b72870966d3bff58c2ec4bfa2e7434adc6a348332bf26bed84562e962a2e6b78a036d45ffb19811a9640a4082c"
 
 [update]
 [update.modrinth]
 mod-id = "GNxdLCoP"
-version = "3rzOQJrq"
+version = "W9HrxM8v"
