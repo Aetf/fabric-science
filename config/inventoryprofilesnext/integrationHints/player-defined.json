@@ -28,5 +28,16 @@
     },
     "aztech.modern_industrialization.machines.gui.MachineScreen": {
         "ignore": true
+    },
+    "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
+        "ignore": true,
+        "buttonHints": {
+            "SETTINGS": {
+                "top": 81
+            }
+        }
+    },
+    "com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu": {
+        "ignore": true
     }
 }
