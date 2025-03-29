@@ -134,6 +134,11 @@ hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
 file = "mods/craterlib.pw.toml"
 hash = "88e5855367203943ee4a00612df733b6b016d953a87e2a2bcb32ba04d78e8dc8"
 metafile = true
@@ -141,6 +146,11 @@ metafile = true
 [[files]]
 file = "mods/cull-leaves.pw.toml"
 hash = "a6448a229fe0cb53a4042f8b16b41d1986316376ace55c8cf126cb61c29d417e"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "ca7aaf32075a904c16620da9892290c28b10abba05673fa30781422393b02a6a"
 metafile = true
 
 [[files]]
@@ -276,6 +286,11 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "833de5ef3fb7b57b7af7b19b35a5889e425bdbcabc19d044320a291b274e57b3"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "62f2bc6dc8bc5dcbccf2ff23d9614f1f457e6afddd80d91ac26bd55dc9a75d56"
 metafile = true
 
 [[files]]
