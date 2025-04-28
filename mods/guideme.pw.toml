@@ -1,13 +1,13 @@
 name = "GuideME"
-filename = "guideme-21.1.7.jar"
+filename = "guideme-21.1.8.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Ck4E7v7R/versions/ZT6SDp8y/guideme-21.1.7.jar"
+url = "https://cdn.modrinth.com/data/Ck4E7v7R/versions/k7QwRTdT/guideme-21.1.8.jar"
 hash-format = "sha512"
-hash = "edfd2fb3c364deea1fee456191fc20be243898e715305b317f1b5df67c176774b781abb7e67fe46c90959f752cfb957186e43d8208f45391d3996c28c307aa0f"
+hash = "561ca9f564f25701ec57acb8a88107fddf4e3f4db400e4ac0a7ab33a7d0419344f26eadd2a3048c87e995bbbc2e78d96f257b5c0726c98c72c55c92fa7e2b936"
 
 [update]
 [update.modrinth]
 mod-id = "Ck4E7v7R"
-version = "ZT6SDp8y"
+version = "k7QwRTdT"

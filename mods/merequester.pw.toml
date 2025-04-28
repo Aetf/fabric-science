@@ -1,13 +1,13 @@
 name = "ME Requester"
-filename = "merequester-neoforge-1.21.1-1.1.8.jar"
+filename = "merequester-neoforge-1.21.1-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/E6BFl96N/versions/a7QNsSHf/merequester-neoforge-1.21.1-1.1.8.jar"
+url = "https://cdn.modrinth.com/data/E6BFl96N/versions/E46AplqZ/merequester-neoforge-1.21.1-1.2.0.jar"
 hash-format = "sha512"
-hash = "db822825707361f9c47714222f748bab4444ad48c3ec75808f83224511c138d01834036d6f76fe0603329c0169fbb0a5a545742b2887b8ff881ee39aa267d0f2"
+hash = "3f93d131cad7086704c5a2d50ee5247c70ebab77167b935792d0f340e5d74db96f1ae334e9a9d562500ba4d676e24c9ded1dc5104fc101835733ccbfe1878d4f"
 
 [update]
 [update.modrinth]
 mod-id = "E6BFl96N"
-version = "a7QNsSHf"
+version = "E46AplqZ"
