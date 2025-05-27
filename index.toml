@@ -10,23 +10,15 @@ hash = "9ca14293603e6665aaa4605ec208e63f5ea139340495f8e793aa04cad8417df8"
 
 [[files]]
 file = "config/ae2-client.toml"
-hash = "8a2b57f6c35343b505c3601a8e06d01759f9ea803ce17a833bf1a338e50b1f41"
+hash = "ce85af48680328cd23a02d89341a1044d1a08a61dd7e504be773f3aaabb38032"
 
 [[files]]
 file = "config/ae2-common.toml"
 hash = "d5bb325da6d3dbaf0015cf02fbd2d708c22fe761232d2b9bb2112e1f187458d2"
 
 [[files]]
-file = "config/ae2/client.json"
-hash = "c0c496ff454a58e6ed52a5ac96576ec6ba78b0d9cccb972aa479993ea36bbf46"
-
-[[files]]
-file = "config/ae2/common.json"
-hash = "6323a834e48a3571bc9dbff0cf0e960a3db9e6390df3e7d9200a62bb5028b0f2"
-
-[[files]]
 file = "config/emi.css"
-hash = "5b24e170dab01ecaa0dae2b857f7ca8ac984f7d6d9a6b95bdbeaae82fa01d1d1"
+hash = "fa96c93934bba862a298bc3dc8c29ab6c82643b3ba678ed3d02168f71a780356"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
@@ -34,11 +26,11 @@ hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
 [[files]]
 file = "config/inventoryprofilesnext/integrationHints/player-defined.json"
-hash = "d4ea270e40da115772bdb33c47b05b19ba007e8f115cda252d3a2f057555165a"
+hash = "9592a24954c43fa9e350575c575be9990a47fce6631ebd9e5c2e9f54514d9753"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "e1bd9049f620b22cc4d2c00e7b9ec14735f8525446b24a8c9c3c3ca06d1e263f"
+hash = "0ee089d81640e816d17871158dbdba0ff495650b17e726626d9895951c8f86c0"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -59,10 +51,6 @@ hash = "3f49605e8e9d197fb6381770c489ac5a887a8b1d758943bf9ed2821f5cd6f4f3"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "e8a961c5afc67e35d430b35d1c8a0783adbaf7f4d4a8b740720a81196dedde15"
-
-[[files]]
-file = "config/modern_industrialization.toml"
-hash = "fa8624fbd540ecafb245a14f42e5cf0fc6f14fa606a2ff6a3cc0e6b4d6918d0e"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
