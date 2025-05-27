@@ -6,6 +6,7 @@
         "enable_profiles": {
             "value": false
         },
+        "enable_updates_check": false,
         "first_run": false
     },
     "GuiSettings": {
@@ -50,10 +51,37 @@
             "value": false
         }
     },
+    "ScrollSettings": {
+        "scroll_full_stack": {
+            "main": {
+                "keys": "TAB"
+            }
+        },
+        "temp_disable": {
+            "main": {
+                "keys": "LEFT_ALT"
+            }
+        }
+    },
     "Hotkeys": {
+        "open_config_menu": {
+            "main": {
+                "keys": "BACKSLASH"
+            }
+        },
         "sort_inventory": {
             "main": {
                 "keys": "Z"
+            }
+        },
+        "scroll_to_chest": {
+            "main": {
+                "keys": "LEFT_CONTROL,MOUSE_SCROLL_UP"
+            }
+        },
+        "scroll_to_inventory": {
+            "main": {
+                "keys": "LEFT_CONTROL,MOUSE_SCROLL_DOWN"
             }
         }
     }

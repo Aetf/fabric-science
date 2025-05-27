@@ -27,15 +27,10 @@
         }
     },
     "aztech.modern_industrialization.machines.gui.MachineScreen": {
-        "ignore": true
+        "playerSideOnly": true
     },
     "com.tiviacz.travelersbackpack.client.screens.BackpackScreen": {
-        "ignore": true,
-        "buttonHints": {
-            "SETTINGS": {
-                "top": 81
-            }
-        }
+        "ignore": true
     },
     "com.tiviacz.travelersbackpack.inventory.menu.BackpackItemMenu": {
         "ignore": true
