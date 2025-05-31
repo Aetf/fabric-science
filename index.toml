@@ -127,11 +127,6 @@ hash = "3b54c67c1da77c1228c3e29d07ac323c033cdfb348cd8a3980866cf638ac476c"
 metafile = true
 
 [[files]]
-file = "mods/applied-experienced.pw.toml"
-hash = "48a2d0afca1ac1a40ab7dcf84172e100c06942709b6199148e5ce6729f7ec7c7"
-metafile = true
-
-[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "e53392cab6393798f95c4ad012dcbd9a5a55d02ef2861ac0c23bee972686dddc"
 metafile = true
@@ -169,11 +164,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
-metafile = true
-
-[[files]]
-file = "mods/experiencelib.pw.toml"
-hash = "f3f4c84a0618e7559226a82b23bdb1ece40d3d03bda4f84e57db4db6b0b42cb0"
 metafile = true
 
 [[files]]
