@@ -1,0 +1,13 @@
+name = "ExperienceLib"
+filename = "experiencelib-1.21.1-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SglcIh0L/versions/50UEicf7/experiencelib-1.21.1-1.0.3.jar"
+hash-format = "sha512"
+hash = "9d272166bc3142a57d5a5914b93677d1aa781e851e69d7d603bc3a6b72f4b3262a13be0a8d431b51e2d9e0584b5ff9b2542c0d498f3ed629f374b5359e45d04b"
+
+[update]
+[update.modrinth]
+mod-id = "SglcIh0L"
+version = "50UEicf7"

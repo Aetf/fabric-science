@@ -102,6 +102,21 @@ hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "e616845b822fd2cb7e335bad7895b7f00f9db83fcb00a9a449846b9935a801f3"
+metafile = true
+
+[[files]]
+file = "mods/ae2-crafting-tree.pw.toml"
+hash = "9954b78cdcee56bef5d407f8051a4924c7c178c29fee92a7482c5c5ac695794b"
+metafile = true
+
+[[files]]
+file = "mods/ae2-network-analyser.pw.toml"
+hash = "a382e50a6e6412a0e10bc67f5b5b12cbeb98c29195b17b63844ec37147219712"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "b4160f327578ee994907c217b8de09e2c4377b5735b12ad56d91cb1a08ddd62d"
 metafile = true
@@ -109,6 +124,11 @@ metafile = true
 [[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "3b54c67c1da77c1228c3e29d07ac323c033cdfb348cd8a3980866cf638ac476c"
+metafile = true
+
+[[files]]
+file = "mods/applied-experienced.pw.toml"
+hash = "48a2d0afca1ac1a40ab7dcf84172e100c06942709b6199148e5ce6729f7ec7c7"
 metafile = true
 
 [[files]]
@@ -152,6 +172,16 @@ hash = "d3c9b48d7caa2ed964e5d1a4dab1da5655c63f0a7e4a59231c4369be7ffc30e1"
 metafile = true
 
 [[files]]
+file = "mods/experiencelib.pw.toml"
+hash = "f3f4c84a0618e7559226a82b23bdb1ece40d3d03bda4f84e57db4db6b0b42cb0"
+metafile = true
+
+[[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "1e972c8e08c25d4515181bb7f129a7fc5bbf1d1fa48036666ab2e4c8e0987197"
+metafile = true
+
+[[files]]
 file = "mods/extended-industrialization.pw.toml"
 hash = "c09d91827141c1f20b6468342557f1f3593da10a26ed50f627710ea05f8791b2"
 metafile = true
@@ -162,8 +192,23 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "8b30d03470cc27030f42b6719cdb8975f163ed336fc8592f0277a4291bb08aec"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "3d0defaa05f249638a4f43b84ae20294409b90b9f68b36e7a9aa771997129229"
+metafile = true
+
+[[files]]
+file = "mods/industrialization-overdrive.pw.toml"
+hash = "a84329a55360b556e5a22ce58714a732bc09c309b4cf478832ecd24bf5c7be49"
 metafile = true
 
 [[files]]
