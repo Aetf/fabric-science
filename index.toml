@@ -173,7 +173,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-industrialization.pw.toml"
-hash = "c09d91827141c1f20b6468342557f1f3593da10a26ed50f627710ea05f8791b2"
+hash = "11f67c1bb8bdd9ca187602b3f45d9df2997daa4aa78c9f950cf7a046fe453df7"
 metafile = true
 
 [[files]]
