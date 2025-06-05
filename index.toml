@@ -101,6 +101,10 @@ file = "dynmap/configuration.txt"
 hash = "52ad3b3e945b311010b8edbb8bf4956bf2e3c8e8767533020d885e3772607866"
 
 [[files]]
+file = "kubejs/assets/emi/recipe/defaults/fabric-science.json"
+hash = "639f6bf7e7d49d5a34a8688afc774d6c50beef057f65024d688f440ea64a003a"
+
+[[files]]
 file = "kubejs/config/defaultoptions.txt"
 hash = "86f354e0c1e04f1b2e9ae37457479a84d96810accccf4d8599c166492f509bc7"
 
@@ -356,14 +360,6 @@ metafile = true
 file = "mods/yigd.pw.toml"
 hash = "b35e1b58a78dba71421b5e43b2328515f4d7feb2dbe64996e1b14d7c923bf476"
 metafile = true
-
-[[files]]
-file = "resourcepacks/emi-ae2-mi/assets/emi/recipe/defaults/fabric-science.json"
-hash = "639f6bf7e7d49d5a34a8688afc774d6c50beef057f65024d688f440ea64a003a"
-
-[[files]]
-file = "resourcepacks/emi-ae2-mi/pack.mcmeta"
-hash = "f6126d6950477d7c6be0210c0dd9cc037ada69bd390ed6eef21e540d907360cc"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
