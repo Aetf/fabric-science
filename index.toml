@@ -65,6 +65,10 @@ file = "config/sodium-options.json"
 hash = "be255ff4587feee964e11feba338d417485c7d26e4e7881f00eea2762fe9b7ca"
 
 [[files]]
+file = "config/travelersbackpack-server.toml"
+hash = "2c7949bc464e7fd6a3eef254abc0cdf6c4040bcc2ab1ee5c6d0ac421433dafae"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
@@ -95,6 +99,18 @@ hash = "8079ddc7ec6de31744ea284af8cfb51835acb3648eb5201cb7bf86e4d3a14191"
 [[files]]
 file = "dynmap/configuration.txt"
 hash = "52ad3b3e945b311010b8edbb8bf4956bf2e3c8e8767533020d885e3772607866"
+
+[[files]]
+file = "kubejs/config/defaultoptions.txt"
+hash = "86f354e0c1e04f1b2e9ae37457479a84d96810accccf4d8599c166492f509bc7"
+
+[[files]]
+file = "kubejs/server_scripts/mi-compact-eae-aae-compact.js"
+hash = "98f9d186d4947ddb117bf5bf30bb26071ae37d5ec8c1c172c5991e8dee54811b"
+
+[[files]]
+file = "kubejs/server_scripts/travelers-backpack-tools.js"
+hash = "a7c120ebae255ab16c87197abc4bbba4a17651b50a0459a7fc9121f5387acce7"
 
 [[files]]
 file = "mods/accessories.pw.toml"
@@ -232,6 +248,11 @@ hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "eba62fcfbe8678c035ef239481af4f01b21b33d198f8bf7467726e02bf37f845"
+metafile = true
+
+[[files]]
 file = "mods/libipn.pw.toml"
 hash = "dad3fae621fe1f37422cd2bd527c237da93e79b72128a27211bbed1c2f7f7b73"
 metafile = true
@@ -284,6 +305,11 @@ metafile = true
 [[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "4c4185186dccb224e20da04103e40c32cfe11b8c6884b83e8d6ac60857daf969"
 metafile = true
 
 [[files]]
