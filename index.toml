@@ -138,7 +138,7 @@ metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "71e9214fbeb615fb3ea3b2c63e802ab8d2132550a2d9177eac3b3226a3b6c58c"
+hash = "a3882ad3e8d41b50fdf6ea36c9fe762feb1eb62e25acbed255d3bf6c20c18c06"
 metafile = true
 
 [[files]]
@@ -164,6 +164,11 @@ metafile = true
 [[files]]
 file = "mods/craterlib.pw.toml"
 hash = "5278f89a988809a740f83918bf3114bf3c1631d0eb471d534f6d67c3f536ad19"
+metafile = true
+
+[[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "8e5f6550359e71ecbea95705ec61fb03313550e6f481cabf48043929909aabae"
 metafile = true
 
 [[files]]
@@ -193,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-industrialization.pw.toml"
-hash = "11f67c1bb8bdd9ca187602b3f45d9df2997daa4aa78c9f950cf7a046fe453df7"
+hash = "043ee7b6cb56a2ef6d7e99ec4491c39aa6ddcabab11c354d0bfe9e69510cce16"
 metafile = true
 
 [[files]]
@@ -218,12 +223,12 @@ metafile = true
 
 [[files]]
 file = "mods/industrialization-overdrive.pw.toml"
-hash = "9c69365d28fef3501c7297a10ea4179a2d9c0f3d9e8c527215ec647fe6884adf"
+hash = "3bd2651068275b1976b87f5e5977a610b9b231a6dffa19c78e11868bab20bab3"
 metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "4a64b09e6b51daa9f1a13b2a3c79999c5d087a01613433d1f79303dcfd0db97f"
+hash = "4d79a25b78e53ae05249011d514a088cebe6df72c236bb657f26fb1aba114d9c"
 metafile = true
 
 [[files]]

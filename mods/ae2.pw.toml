@@ -1,13 +1,13 @@
 name = "Applied Energistics 2"
-filename = "appliedenergistics2-19.2.11.jar"
+filename = "appliedenergistics2-19.2.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/FcobeuQZ/appliedenergistics2-19.2.11.jar"
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/Skhspwxl/appliedenergistics2-19.2.12.jar"
 hash-format = "sha512"
-hash = "842552f56dbcb1a4de1fe54c9f0c1ce3d542a36ac0f4927856d9026b00cf393b2ba990a670a337308457053d6f0db88994b9824fa254c64a7ed4bbc1ad171083"
+hash = "27df4ffc2bf9bf556bd6ae09197b7d9029ab79487477f0edbf650a33780f8f55778974a3109245c42dddeec12f0abfd0aa5b9737d715fc04a33ae1fc62942393"
 
 [update]
 [update.modrinth]
 mod-id = "XxWD5pD3"
-version = "FcobeuQZ"
+version = "Skhspwxl"
