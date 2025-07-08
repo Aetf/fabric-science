@@ -1,13 +1,13 @@
 name = "ModernFix"
-filename = "modernfix-neoforge-5.23.1+mc1.21.1.jar"
+filename = "modernfix-neoforge-5.24.1+mc1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nmDcB62a/versions/gADERDwI/modernfix-neoforge-5.23.1%2Bmc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/nXuORlyQ/modernfix-neoforge-5.24.1%2Bmc1.21.1.jar"
 hash-format = "sha512"
-hash = "3eb77ebde267db0a1b3fe3c442d523ea1a72e743bae8588f6aeea26b7addac7d1fa3253d3d7bb6a7a1662e9a2dfa5a3c8a71480463f8b0d996766fd2617f8968"
+hash = "359f7591ae4872078724fb7eb4adc5f0a7625fc7353ef781d702af9e37aca5a6301439ad7834802590797db347ab8caa64e5e530c4638c00857def05b2a8ad76"
 
 [update]
 [update.modrinth]
 mod-id = "nmDcB62a"
-version = "gADERDwI"
+version = "nXuORlyQ"
