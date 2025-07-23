@@ -21,6 +21,10 @@ file = "config/emi.css"
 hash = "fa96c93934bba862a298bc3dc8c29ab6c82643b3ba678ed3d02168f71a780356"
 
 [[files]]
+file = "config/extended_industrialization-startup.toml"
+hash = "fb42361433dd7386d6051b33834f818ce1a19ce149c4b38daa5b116d9c254810"
+
+[[files]]
 file = "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json"
 hash = "ca413dea02cce69c69dccdc525fb0ec013236876eff2d142772c68db3d772d3a"
 
@@ -118,7 +122,7 @@ hash = "a7c120ebae255ab16c87197abc4bbba4a17651b50a0459a7fc9121f5387acce7"
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "ef5ba56db7a5b69477d4cd673520477af809da16c537de026913fe5417b12811"
+hash = "87f3b1dbbc4cce1eeb5566e041fae7431b1f607cade6232df8417fd241e298f2"
 metafile = true
 
 [[files]]
@@ -133,12 +137,12 @@ metafile = true
 
 [[files]]
 file = "mods/ae2-network-analyser.pw.toml"
-hash = "ee042bf2d0fe04975a49e6c38f66fc381f29cd3b5b38f9e1344dd2a8db2d3686"
+hash = "dea700f49d6cc370ce3dc745bddd8a49c3acf3f8490b1a6422974500f36a06b0"
 metafile = true
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "a3882ad3e8d41b50fdf6ea36c9fe762feb1eb62e25acbed255d3bf6c20c18c06"
+hash = "b2c735b5041e6735cc494b70e47e3e3c642d399724063fa4bbdb0dc6db221360"
 metafile = true
 
 [[files]]
@@ -188,7 +192,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "d7fb4b1803c7eb693470fa38514d6479fcc434876af70c3a7b9a87eba24b81f1"
+hash = "34fc0845727b08bc39e5b56444e0695b55f6a5471380f2d1d40c5548105da28e"
 metafile = true
 
 [[files]]
@@ -238,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-profiles-next.pw.toml"
-hash = "4d79a25b78e53ae05249011d514a088cebe6df72c236bb657f26fb1aba114d9c"
+hash = "1952b200b7b40346d42c4fa09e9d0d15676b1e4064a93736c5d2baa126a7e9ad"
 metafile = true
 
 [[files]]
@@ -293,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/midnightlib.pw.toml"
-hash = "04df77c921a891de3a2cfb8f0f9a6f61a4aa91640b90405a12d7bed93f8eead3"
+hash = "7713cc82e1ea68848508ed5c1a1c7bd1a832c0bcc97c96865891b9a2a33aa825"
 metafile = true
 
 [[files]]
@@ -303,12 +307,12 @@ metafile = true
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
-hash = "7994c38dd8a760393590c24bc0c8a6a463fc9562c0b440e41a582c5d8969a96d"
+hash = "6cdc6698b4cd737aaff2db2e91f5a4642e91c02a96b29b5e7e94ea5b67ea57ac"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "f3f5f631ee96a2b701c5f396f887a33a96955387e8c5085e8ebd72cb6996605c"
+hash = "a9593968393bae08257ba9aae887ad60fc49991f676b637006b2bcd89907f09a"
 metafile = true
 
 [[files]]
@@ -318,7 +322,7 @@ metafile = true
 
 [[files]]
 file = "mods/owo-lib.pw.toml"
-hash = "7ec6e5aab74e9427df771c614be3c01ecc156af653104693387387ce033934fa"
+hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
@@ -358,7 +362,7 @@ metafile = true
 
 [[files]]
 file = "mods/tesseract-api.pw.toml"
-hash = "427a1107ae56b3b0f4780c5b1831d2b4e4d62d965cf785caeacace6138f2c2a1"
+hash = "c67afa57375ec4dfa9c157cd423b64325bfc8769b326b3cc093742e486c3fc25"
 metafile = true
 
 [[files]]
@@ -373,12 +377,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "874e30e629a4d32dc35b37fae6ab6996f63a9f5f6fa3acb10a89d96a7ac6f740"
+hash = "208b2e2baac76e9a7385d6d8cae777dd41d251dee3b68f7fbcd85f11a2481d5e"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "4853035723ad5005425f408601ad878b1a6c28bf20ca9ab9c1ec0997e60c348e"
+hash = "9703fd3d469cd29248eab476027ce855a404e2508cd234ed4e5c75beb2592061"
 metafile = true
 
 [[files]]
