@@ -1,0 +1,13 @@
+name = "Mekanism Upgrades: Reborn"
+filename = "mekanismupgradesreborn-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "23eb65b6a1dae173ba9d9df3b32471cc4e24be71"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6266834
+project-id = 1171619

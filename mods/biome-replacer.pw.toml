@@ -1,0 +1,13 @@
+name = "Biome Replacer"
+filename = "biomereplacer-2.0-hippo-forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "01d379964757b33b7974bf6e480faae8b95f7042"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6317245
+project-id = 910274

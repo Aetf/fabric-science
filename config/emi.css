@@ -172,12 +172,12 @@
 	/**
 	 * The subpanels in the left sidebar
 	 */
-	left-sidebar-subpanels: lookup-history 1;
+	left-sidebar-subpanels: none;
 
 	/**
 	 * How many columns and rows of ingredients to limit the left sidebar to
 	 */
-	left-sidebar-size: 6, 100;
+	left-sidebar-size: 16, 32;
 
 	/**
 	 * How much space to maintain between the left sidebar and obstructions, in pixels
@@ -197,7 +197,7 @@
 	/**
 	 * Which theme to use for the left sidebar
 	 */
-	left-sidebar-theme: vanilla;
+	left-sidebar-theme: transparent;
 
 	/**
 	 * The pages in the right sidebar
@@ -212,7 +212,7 @@
 	/**
 	 * How many columns and rows of ingredients to limit the right sidebar to
 	 */
-	right-sidebar-size: 6, 100;
+	right-sidebar-size: 24, 48;
 
 	/**
 	 * How much space to maintain between the right sidebar and obstructions, in pixels
@@ -227,12 +227,12 @@
 	/**
 	 * Whether to render the header buttons and page count for the right sidebar
 	 */
-	right-sidebar-header: invisible;
+	right-sidebar-header: visible;
 
 	/**
 	 * Which theme to use for the right sidebar
 	 */
-	right-sidebar-theme: vanilla;
+	right-sidebar-theme: transparent;
 
 	/**
 	 * The pages in the top sidebar
@@ -303,7 +303,7 @@
 	/**
 	 * Which theme to use for the bottom sidebar
 	 */
-	bottom-sidebar-theme: vanilla;
+	bottom-sidebar-theme: transparent;
 }
 
 #binds {

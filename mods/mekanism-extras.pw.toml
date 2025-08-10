@@ -1,0 +1,13 @@
+name = "Mekanism Extras"
+filename = "mekanism_extras-1.20.1-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3bee5d69f3c0840596548589b23fb86ed2505963"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6498454
+project-id = 1026040

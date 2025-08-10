@@ -1,0 +1,13 @@
+name = "Industrial Foregoing Souls"
+filename = "industrial-foregoing-souls-1.20.1-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "dc88933c3c3ed8c6f519dde1ff7ff855f0d1332a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5240383
+project-id = 904394

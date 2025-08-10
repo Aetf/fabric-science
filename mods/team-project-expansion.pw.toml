@@ -1,0 +1,13 @@
+name = "Team Project Expansion"
+filename = "TeamProjectExpansion-1.20.1-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e2216db812faa1aa596af750b83f4b504f115ac2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5928698
+project-id = 1144668

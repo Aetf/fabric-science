@@ -1,0 +1,13 @@
+name = "Create: Ender Transmission"
+filename = "createendertransmission-2.1.0-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "06778b1d18ede45b775623628428160959e15803"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6275714
+project-id = 737302

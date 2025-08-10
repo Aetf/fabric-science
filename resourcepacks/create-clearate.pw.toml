@@ -1,0 +1,13 @@
+name = "Create: Clearate"
+filename = "Clearate_v1.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e54dd91f88c9667cc6deb67f614630c9b0d970d8"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6593769
+project-id = 1205493

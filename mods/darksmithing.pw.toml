@@ -1,0 +1,13 @@
+name = "DarkSmithing - RPG Smithing Template Recipes (Armor Trims)"
+filename = "darksmithing-forge-1.20.1-1.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8e1d3d430f06b568883b3cb0ebdd9fcbaa7eb7f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5041810
+project-id = 883709

@@ -1,0 +1,13 @@
+name = "Timestamp Chat"
+filename = "timestamp-chat-forge-2.4.0+1.19.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e9f0de931a63fadd5c72f2045c44eccd1df0dab"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4665206
+project-id = 373235

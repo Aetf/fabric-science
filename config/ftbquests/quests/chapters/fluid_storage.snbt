@@ -1,0 +1,602 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "fluid_storage"
+	group: "051AA46D917B6FBA"
+	icon: "create:creative_fluid_tank"
+	id: "7155CB1D08F913B8"
+	order_index: 17
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["254B1CE0803DA72D"]
+			description: [
+				"Each &2Basic Fluid Tank&r can store "
+				"&632 000 mB&r (32 Buckets) of a single fluid."
+			]
+			disable_toast: true
+			id: "65D3DA6704C586F4"
+			size: 1.0d
+			subtitle: "Basically a tank"
+			tasks: [{
+				id: "4799C1E7826F86D0"
+				item: "mekanism:basic_fluid_tank"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["65D3DA6704C586F4"]
+			description: [
+				"Each &4Advanced Fluid Tank&r can store "
+				"&664 000 mB&r (64 Buckets) of a single fluid."
+				"This is twice as much compared to &2Basic Fluid Tank&r and it can be upgraded without breaking if you wish using &4Advanced Tier Installer&r."
+			]
+			disable_toast: true
+			id: "09B85773C78D8987"
+			size: 1.0d
+			subtitle: "Advancing into fluid tankery"
+			tasks: [{
+				id: "2A8A91B665996BC0"
+				item: "mekanism:advanced_fluid_tank"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["09B85773C78D8987"]
+			description: [
+				"Each &bElite Fluid Tank&r can store "
+				"&6128 000 mB&r (128 Buckets) of a single fluid."
+				"This is twice as much compared to &4Advanced Fluid Tank&r and it can be upgraded without breaking if you wish using &bElite Tier Installer&r."
+			]
+			disable_toast: true
+			id: "1AF5DC72498A1EF5"
+			size: 1.0d
+			subtitle: "Elite tanking capabilities"
+			tasks: [{
+				id: "57793E8802EA62B4"
+				item: "mekanism:elite_fluid_tank"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["1AF5DC72498A1EF5"]
+			description: [
+				"Each &dUltimate Fluid Tank&r can store "
+				"&6256 000 mB&r (256 Buckets) of a single fluid."
+				"This is twice as much compared to &2Elite Fluid Tank&r and it can be upgraded without breaking if you wish using &dUltimate Tier Installer&r."
+			]
+			disable_toast: true
+			id: "00E28EF5E92C8FE4"
+			size: 1.0d
+			subtitle: "Ultimately, a tank"
+			tasks: [{
+				id: "1BDC15CAF793893E"
+				item: "mekanism:ultimate_fluid_tank"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 3.0d
+		}
+		{
+			description: [
+				"Each &6Tank&r block can store 8000mB (8 Buckets) of any fluid, but one per tank."
+				"Tanks can be connected together for shared storage with base up to 3x3 blocks and height up to 32 blocks high."
+				""
+				"Maximum capacity of a singular tank multiblock is &62 304 000 mB&r (2 304 Buckets) with a size of &63x32x3&r (288 blocks or 4.5 stacks)."
+			]
+			disable_toast: true
+			id: "254B1CE0803DA72D"
+			size: 1.0d
+			subtitle: "Modular Tank"
+			tasks: [{
+				id: "2890350A69F7001C"
+				item: "create:fluid_tank"
+				type: "item"
+			}]
+			x: -10.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["00E28EF5E92C8FE4"]
+			description: [
+				"Each &aAbsolute Fluid Tank&r can store "
+				"&64 096 000 mB&r (4096 Buckets) of a single fluid."
+				"This is 16 times more compared to &5Ultimate Fluid Tank&r and it can be upgraded without breaking if you wish using &bAbsolute Tier Installer&r."
+			]
+			disable_toast: true
+			id: "0208CC49B9D2A4D0"
+			subtitle: "Absolutely tanky"
+			tasks: [{
+				id: "4D26E6D0EF785FC2"
+				item: "mekanism_extras:absolute_fluid_tank"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0208CC49B9D2A4D0"]
+			disable_toast: true
+			id: "2E1D8569D2A68DDD"
+			tasks: [{
+				id: "5FACC5BC8FF75356"
+				item: "mekanism_extras:supreme_fluid_tank"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2E1D8569D2A68DDD"]
+			disable_toast: true
+			id: "029A3AB286EFB208"
+			tasks: [{
+				id: "0815309EF37E33E7"
+				item: "mekanism_extras:cosmic_fluid_tank"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["029A3AB286EFB208"]
+			id: "7E166B27DA315923"
+			shape: "gear"
+			size: 1.5d
+			tasks: [{
+				id: "34091DA19AE4CDBB"
+				item: "mekanism_extras:infinite_fluid_tank"
+				type: "item"
+			}]
+			x: -10.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["254B1CE0803DA72D"]
+			disable_toast: true
+			id: "0FC716C38043CCA1"
+			tasks: [{
+				id: "6594FBE99C681465"
+				item: "enderstorage:ender_tank"
+				type: "item"
+			}]
+			x: -12.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["254B1CE0803DA72D"]
+			disable_toast: true
+			id: "11481AD95015A51E"
+			tasks: [{
+				id: "75F0F6E31F921F69"
+				item: "industrialforegoing:common_black_hole_tank"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["11481AD95015A51E"]
+			disable_toast: true
+			id: "6BC3ABC229B73657"
+			tasks: [{
+				id: "33B71E230ABA8A0A"
+				item: "industrialforegoing:pity_black_hole_tank"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6BC3ABC229B73657"]
+			disable_toast: true
+			id: "4C61C4C9278F622F"
+			tasks: [{
+				id: "5A04F507B39E605D"
+				item: "industrialforegoing:simple_black_hole_tank"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["4C61C4C9278F622F"]
+			disable_toast: true
+			id: "387C64DF9E281CF6"
+			tasks: [{
+				id: "1E0C5F66CAE365F4"
+				item: "industrialforegoing:advanced_black_hole_tank"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["387C64DF9E281CF6"]
+			disable_toast: true
+			id: "29501ADC550F5E49"
+			tasks: [{
+				id: "3B8FE9A49A9550CB"
+				item: "industrialforegoing:supreme_black_hole_tank"
+				type: "item"
+			}]
+			x: -9.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["254B1CE0803DA72D"]
+			description: [
+				"Fluid Drawers can be connected to the"
+				"{ \"text\": \"Storage Controller\", \"underlined\": \"true\", \"clickEvent\": { \"action\": \"change_page\", \"value\": \"1E7C3D46B2CE70EB\" } } "
+				"as well."
+			]
+			disable_toast: true
+			id: "321281E77DC6C399"
+			tasks: [{
+				id: "3DA51493701281DA"
+				item: {
+					Count: 1
+					id: "itemfilters:or"
+					tag: {
+						items: [
+							{
+								Count: 1b
+								id: "functionalstorage:fluid_1"
+							}
+							{
+								Count: 1b
+								id: "functionalstorage:fluid_2"
+							}
+							{
+								Count: 1b
+								id: "functionalstorage:fluid_4"
+							}
+						]
+					}
+				}
+				title: "Any Fluid Drawer"
+				type: "item"
+			}]
+			title: "Fluid Drawers"
+			x: -12.0d
+			y: -1.5d
+		}
+		{
+			disable_toast: true
+			id: "5C9340E4CF79B263"
+			tasks: [{
+				id: "2A472CA3758F3C8F"
+				item: {
+					Count: 1
+					id: "ae2:portable_fluid_cell_1k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -3.0d
+		}
+		{
+			dependencies: ["5C9340E4CF79B263"]
+			disable_toast: true
+			id: "4131981B596032E8"
+			tasks: [{
+				id: "6CC1FEC3E92A7277"
+				item: {
+					Count: 1
+					id: "ae2:portable_fluid_cell_4k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: -1.5d
+		}
+		{
+			dependencies: ["4131981B596032E8"]
+			disable_toast: true
+			id: "7D7E358EC57CEDF8"
+			tasks: [{
+				id: "65BC4D28C71209F8"
+				item: {
+					Count: 1
+					id: "ae2:portable_fluid_cell_16k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["7D7E358EC57CEDF8"]
+			disable_toast: true
+			id: "45A4D11A93D3213C"
+			tasks: [{
+				id: "3CA2797AFFF78527"
+				item: {
+					Count: 1
+					id: "ae2:portable_fluid_cell_64k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 1.5d
+		}
+		{
+			dependencies: ["45A4D11A93D3213C"]
+			disable_toast: true
+			id: "116898AFF74281E7"
+			tasks: [{
+				id: "2285F0F5B034044D"
+				item: {
+					Count: 1
+					id: "ae2:portable_fluid_cell_256k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["116898AFF74281E7"]
+			disable_toast: true
+			id: "1805F079FA8474CA"
+			tasks: [{
+				id: "66FEF552776AD52F"
+				item: {
+					Count: 1
+					id: "megacells:portable_fluid_cell_1m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1805F079FA8474CA"]
+			disable_toast: true
+			id: "2C0702D794FB9A82"
+			tasks: [{
+				id: "6CEAD0D5F506BF38"
+				item: {
+					Count: 1
+					id: "megacells:portable_fluid_cell_4m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2C0702D794FB9A82"]
+			disable_toast: true
+			id: "7714719E10BCBFFB"
+			tasks: [{
+				id: "02E810AE284EC303"
+				item: {
+					Count: 1
+					id: "megacells:portable_fluid_cell_16m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 7.5d
+		}
+		{
+			dependencies: ["7714719E10BCBFFB"]
+			disable_toast: true
+			id: "4CED6C9B857D506C"
+			tasks: [{
+				id: "443026F87868BDF6"
+				item: {
+					Count: 1
+					id: "megacells:portable_fluid_cell_64m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 9.0d
+		}
+		{
+			dependencies: ["4CED6C9B857D506C"]
+			disable_toast: true
+			id: "18428EB3072A0320"
+			tasks: [{
+				id: "6468D19596A758E7"
+				item: {
+					Count: 1
+					id: "megacells:portable_fluid_cell_256m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -7.5d
+			y: 10.5d
+		}
+		{
+			disable_toast: true
+			id: "3237B84BECCA2954"
+			tasks: [{
+				id: "23C5088E152BAE28"
+				item: {
+					Count: 1
+					id: "ae2:fluid_storage_cell_1k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["3237B84BECCA2954"]
+			disable_toast: true
+			id: "53246508BF44B632"
+			tasks: [{
+				id: "656E756344ACE2B8"
+				item: {
+					Count: 1
+					id: "ae2:fluid_storage_cell_4k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["53246508BF44B632"]
+			disable_toast: true
+			id: "6021528AC0C9D28A"
+			tasks: [{
+				id: "39E1E8BA77BBC8C5"
+				item: {
+					Count: 1
+					id: "ae2:fluid_storage_cell_16k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["6021528AC0C9D28A"]
+			disable_toast: true
+			id: "049FBAA9A86E28A0"
+			tasks: [{
+				id: "72EF5D9CE4A8F2C6"
+				item: {
+					Count: 1
+					id: "ae2:fluid_storage_cell_64k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["049FBAA9A86E28A0"]
+			disable_toast: true
+			id: "4C9F1BA04217D2E6"
+			tasks: [{
+				id: "068E53D268331449"
+				item: {
+					Count: 1
+					id: "ae2:fluid_storage_cell_256k"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["4C9F1BA04217D2E6"]
+			disable_toast: true
+			id: "43DF6A3EECFA8F0C"
+			tasks: [{
+				id: "7320C193080F5454"
+				item: {
+					Count: 1
+					id: "megacells:fluid_storage_cell_1m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["43DF6A3EECFA8F0C"]
+			disable_toast: true
+			id: "204DA192592E3612"
+			tasks: [{
+				id: "42DA0973204A32C7"
+				item: {
+					Count: 1
+					id: "megacells:fluid_storage_cell_4m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["204DA192592E3612"]
+			disable_toast: true
+			id: "154588312EC5FE72"
+			tasks: [{
+				id: "4915832183AF8BBA"
+				item: {
+					Count: 1
+					id: "megacells:fluid_storage_cell_16m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["154588312EC5FE72"]
+			disable_toast: true
+			id: "75FFA14CCDDB393E"
+			tasks: [{
+				id: "0866F783C3BB1810"
+				item: {
+					Count: 1
+					id: "megacells:fluid_storage_cell_64m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["75FFA14CCDDB393E"]
+			disable_toast: true
+			id: "6437A56729193491"
+			tasks: [{
+				id: "69E1AAEF3A16C7EC"
+				item: {
+					Count: 1
+					id: "megacells:fluid_storage_cell_256m"
+					tag: { }
+				}
+				type: "item"
+			}]
+			x: -6.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["254B1CE0803DA72D"]
+			disable_toast: true
+			id: "2D7D72477FCDFD5B"
+			tasks: [{
+				id: "3B924870B5FE8E94"
+				item: "industrialrenewal:fluid_tank"
+				type: "item"
+			}]
+			x: -9.0d
+			y: -3.0d
+		}
+	]
+	title: "Fluid Storage"
+}

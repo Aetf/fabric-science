@@ -1,0 +1,13 @@
+name = "Bow Infinity Fix (Forge/Fabric)"
+filename = "bowinfinityfix-1.20.x-forge-2.6.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aecf2b133ef23251d2640795f719fbc7dec10b44"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4615218
+project-id = 224713

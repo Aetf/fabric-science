@@ -1,0 +1,13 @@
+name = "Recipes Library"
+filename = "RecipesLibrary-1.20.1-2.0.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e03b505cc5be2711e0f5c6c0c591b0019a95d226"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4628674
+project-id = 398351

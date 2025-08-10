@@ -1,0 +1,13 @@
+name = "Pure Emerald Tools"
+filename = "PureEmeraldTools-v3.0.0-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2ea60128308038efba79c79509db58eeeaeb0bc7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4938543
+project-id = 868517

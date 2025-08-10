@@ -1,0 +1,13 @@
+name = "Custom Portal API Reforged"
+filename = "cpapireforged-1.0.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "687eb7776b582f7c388fe9ee69545f06d814fa4a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5487230
+project-id = 902717

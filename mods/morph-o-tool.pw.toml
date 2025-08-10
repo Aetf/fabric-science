@@ -1,0 +1,13 @@
+name = "Morph-o-Tool"
+filename = "Morph-o-Tool-1.7-38.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "cbaaf31f83277c2aa3bb9fa0a77d8a9dd9c40d00"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5605503
+project-id = 245287

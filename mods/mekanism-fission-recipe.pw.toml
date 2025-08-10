@@ -1,0 +1,13 @@
+name = "Mekanism Fission Recipe"
+filename = "fissionrecipe-3.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "42d3605c16f8f7b6cb0b7095a5b15dd51cbedc4f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5724203
+project-id = 518567

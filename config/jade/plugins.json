@@ -1,19 +1,20 @@
 {
+  "framedblocks": {
+    "framed_item_frame": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
-    "harvest_tool.show_unbreakable": true,
+    "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
-    "energy_storage.style": "PROGRESS_BAR",
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
-    "next_entity_drop": true,
     "energy_storage": true,
-    "entity_armor.max_for_render": 20,
+    "entity_armor.max_for_render": 40,
     "breaking_progress": true,
     "tnt_stability": true,
     "item_storage.items_per_line": 9,
@@ -28,14 +29,15 @@
     "mob_spawner": true,
     "redstone": true,
     "fluid_storage": true,
+    "chicken_egg": true,
     "jukebox": true,
     "brewing_stand": true,
     "energy_storage.detailed": false,
     "note_block": true,
-    "fluid_storage.style": "PROGRESS_BAR",
     "beehive": true,
     "item_storage.detailed_amount": 54,
     "player_head": true,
+    "block_states": false,
     "lectern": true,
     "entity_armor": true,
     "harvest_tool.creative": false,
@@ -52,30 +54,55 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "jadeaddons": {
-    "equipment_requirement": ""
+  "cagedmobs": {
+    "cagedmobs_jade": true
   },
-  "jade_access": {
-    "held_item": true,
-    "sign": true,
-    "block": true,
-    "entity": true,
-    "entity_variant": true
+  "jadeaddons.create": {
+    "filter": true,
+    "backtank_capacity": true,
+    "goggles.requires_goggles": true,
+    "goggles": false,
+    "blaze_burner": true,
+    "exact_block": true,
+    "goggles.detailed": false,
+    "placard": true
+  },
+  "tombstone": {
+    "graves": true
+  },
+  "entangled": {
+    "entangled_block_component": true
+  },
+  "exdeorum": {
+    "infested_leaves": true,
+    "barrel": true,
+    "crucible": true,
+    "sieve": true
+  },
+  "jadeaddons.mcjtylib": {
+    "jadeaddons": true
+  },
+  "createsifter": {
+    "sifter_data": true
   },
   "jade": {
     "coordinates.rel": false,
-    "registry_name.special": false,
-    "block_states": false,
     "distance": false,
     "block_face": false,
     "coordinates": false,
     "registry_name": "OFF",
-    "block_properties": false,
     "mod_name": true
   },
-  "modern_industrialization": {
-    "overclock": true,
-    "pipe": true
+  "expatternprovider": {
+    "jade_chamber": true,
+    "jade_wireless": true
+  },
+  "apotheosis": {
+    "adventure": true,
+    "spawner": true
+  },
+  "balm": {
+    "jade": true
   },
   "ae2": {
     "part_icon": true,
@@ -88,5 +115,61 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "extendedcrafting": {
+    "elite_auto_table": true,
+    "ender_crafter": true,
+    "basic_auto_table": true,
+    "flux_crafter": true,
+    "advanced_table": true,
+    "auto_ender_crafter": true,
+    "ultimate_table": true,
+    "ultimate_auto_table": true,
+    "epic_table": true,
+    "elite_table": true,
+    "basic_table": true,
+    "epic_auto_table": true,
+    "crafting_core": true,
+    "advanced_auto_table": true,
+    "compressor": true
+  },
+  "jadeaddons": {
+    "equipment_requirement": ""
+  },
+  "jadeaddons.lootr": {
+    "info": true
+  },
+  "projecte": {
+    "emc_provider": true
+  },
+  "mekanism": {
+    "infuse_type": true,
+    "gas": true,
+    "remove_builtin": true,
+    "pigment": true,
+    "fluid": true,
+    "slurry": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
+  "projectexpansion": {
+    "provider": true
+  },
+  "pipez": {
+    "pipe": true
+  },
+  "appliedcooking": {
+    "kitchen_station": true
+  },
+  "havenanimalseeds": {
+    "mobseed_remaining_time": true
+  },
+  "cookingforblockheads": {
+    "fridge": true,
+    "oven": true,
+    "sink": true,
+    "preservation_chamber": true,
+    "milk_jar": true,
+    "toaster": true
   }
 }

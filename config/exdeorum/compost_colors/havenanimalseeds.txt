@@ -1,0 +1,27 @@
+// Compost colors for havenanimalseeds. You may add your own colors, change existing ones, or remove colors that aren't needed.
+axolotl_seed, #ffffff
+bee_seed, #ffffb4
+cat_seed, #f5d29b
+chicken_seed, #fffffa
+cow_seed, #eeffd0
+dolphin_seed, #d4e8cf
+donkey_seed, #fffffb
+fox_seed, #ffffe3
+glow_squid_seed, #ccfae1
+goat_seed, #c5dec2
+horse_seed, #fffedc
+llama_seed, #fffffb
+mooshroom_seed, #fffffb
+mule_seed, #fffffb
+ocelot_seed, #f5d29b
+panda_seed, #ebffda
+parrot_seed, #ffffde
+pig_seed, #bcfaac
+polar_bear_seed, #f5f7ca
+rabbit_seed, #bcfaac
+sheep_seed, #eeffd0
+sniffer_seed, #e7fbe4
+squid_seed, #d7eddd
+turtle_seed, #fafff1
+villager_seed, #ccffd7
+wolf_seed, #fffffc

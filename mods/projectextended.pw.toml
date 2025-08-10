@@ -1,0 +1,13 @@
+name = "ProjectExtended"
+filename = "ProjectExtended-1.20.1-1.5.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "906b3eec91b398922280c041a727e895bc465a97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4860891
+project-id = 353775

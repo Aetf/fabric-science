@@ -1,0 +1,13 @@
+name = "Haven Pebbles"
+filename = "HavenPebbles-1.20.1-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1352eb4637a65976fc7846609c84d31ad6448e2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5409818
+project-id = 916628

@@ -1,0 +1,49 @@
+{
+    "entity": "minecraft:cow",
+    "variants": [],
+    "name": "entity.minecraft.cow",
+    "name_color": "#352A1F",
+    "gui_scale": 1.0,
+    "gui_x_offset": 0.0,
+    "gui_y_offset": 0.0,
+    "gui_z_offset": 0.0,
+    "sim_cost": 512,
+    "input": {
+        "item": "hostilenetworks:prediction_matrix",
+        "count": 1
+    },
+    "base_drop": {
+        "item": "hostilenetworks:overworld_prediction",
+        "count": 1
+    },
+    "trivia": "hostilenetworks.trivia.cow",
+    "fabricator_drops": [
+        {
+            "item": "minecraft:beef",
+            "count": 32
+        },
+        {
+            "item": "minecraft:leather",
+            "count": 32
+        },
+        {
+            "item": "cagedmobs:milk_drop",
+            "count": 16
+        },
+        {
+            "optional": true,
+            "item": "hexerei:animal_fat",
+            "count": 16
+        },
+        {
+            "item": "create:experience_nugget",
+            "count": 8
+        }
+    ],
+    "data_per_kill": [
+        1,
+        2,
+        3,
+        4
+    ]
+}
